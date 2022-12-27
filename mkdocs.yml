@@ -1,15 +1,15 @@
 site_name: How To Cook
 
 # Repository
-repo_name: Anduin2017/HowToCook
-repo_url: https://github.com/Anduin2017/HowToCook
+repo_name: creeper-0910/HowToCook-jp
+repo_url: https://github.com/creeper-0910/HowToCook-jp
 edit_uri: ""
 
 use_directory_urls: true
 docs_dir: .
 theme:
   name: material
-  language: zh
+  language: ja
   features:
     - content.code.annotate
     # - content.tabs.link
