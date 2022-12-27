@@ -11,8 +11,6 @@ jobs:
     steps:
       # Checkout, install tools..
       - uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.PAT }}
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
@@ -40,6 +38,7 @@ jobs:
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
       # Build docs
+      - run: mkdir docs
       - uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
