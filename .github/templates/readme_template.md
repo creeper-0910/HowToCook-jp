@@ -1,21 +1,20 @@
-# 程序员做饭指南
+# プログラマーのための料理ガイド 
 
 [![build](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 [![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-cook)
 
-最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
+最近は自宅待機で外出があまり出来ず、家で料理をすることしか出来ません。 プログラマーである私は、時々インターネットでレシピや練習方法を探します。これらのレシピはさまざまな方法で記述されていることが多く、いくつかの食材がいきなり出てくることなどもあります。これは 形式言語に慣れたプログラマーにとって非常に不親切です。 
 
-所以，我计划自己搜寻菜谱并结合实际做菜的经验，准备用更清晰精准的描述来整理常见菜的做法，以方便程序员在家做饭。
+そこで、自分でレシピを探し実際に料理をした経験をもとに、プログラマーが家庭で料理をしやすいように、よりわかりやすく、より正確に説明したものを作ろうと考えました。
 
-同样，我希望它是一个由社区驱动和维护的开源项目，使更多人能够一起做一个有趣的仓库。所以非常欢迎大家贡献它~
+私はこれがコミュニティによって推進および維持されるオープンソース プロジェクトになり、より多くの人々が興味深いリポジトリを一緒に作成できるようになることを願っています。皆様のリポジトリへの貢献をお待ちしています！
+## 貢献の方法
 
-## 如何贡献
+もし問題を見つけたら、それを修正してPull requestを提出してください！
 
-针对发现的问题，直接修改并提交 Pull request 即可。
-
-在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
+新しいレシピを書くときは、既存のレシピのテンプレートを参考に作成してください: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
 
 ## 做菜之前
 
